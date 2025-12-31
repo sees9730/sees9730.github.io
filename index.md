@@ -1,0 +1,22 @@
+---
+layout: single
+author_profile: true
+permalink: /
+---
+
+Autonomy engineer building intelligent systems for aerospace and robotics. Currently pursuing my M.S. in Aerospace Engineering at CU Boulder, focusing on autonomous systems and robotics. I work on making complex systems act without human intervention, from CubeSat mission planning to flight software architectures.
+
+## Featured Work
+
+### Thesis: Safe Autonomous Systems via TPOs & Neural Networks
+Developing expressive planning frameworks for complex multi-stage missions and stochastic control synthesis using neural certificates to prove safety guarantees for learned controllers.
+
+### LASP Mission Planner
+Built an autonomous constraint-based planning framework for NASA CubeSat missions (SPRITE & MANTIS), reducing planning time from 1-2 hours to 5-15 minutes while eliminating manual scheduling conflicts across three concurrent missions.
+
+### Arkisys Flight Systems
+Designed and implemented a fault-tolerant multi-MCU flight system architecture with dynamic reconfiguration capabilities, enabling autonomous operation without ground intervention. Presented at PDR.
+
+[View full experience →](/experience/)
+
+[View all projects →](/projects/)
