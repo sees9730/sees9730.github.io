@@ -22,13 +22,13 @@ Developing a stochastic control synthesis framework using neural certificates to
 
 **Mission Planner & Autonomy Engineer** | Boulder, CO | Jan 2023 – Current
 
-![LASP Logo](/assets/images/lasp_logo.png)
+<img src="/assets/images/lasp_logo.png" alt="LASP Logo" width="300">
 
 Built an autonomous constraint-based task planning framework in Python for NASA CubeSat missions in LEO sun-synchronous orbits.
 
 ### Missions
 
-![SPRITE Logo](/assets/images/sprite_logo.png) ![MANTIS Logo](/assets/images/mantis_logo.png)
+<img src="/assets/images/sprite_logo.png" alt="SPRITE Logo" width="200"> <img src="/assets/images/mantis_logo.png" alt="MANTIS Logo" width="200">
 
 **SPRITE** - 12U CubeSat studying supernova remnants and reionization proxies.
 
@@ -38,7 +38,7 @@ Built an autonomous constraint-based task planning framework in Python for NASA 
 
 ### Mission Planner
 
-![Mission Planner Interface](/assets/images/mission_planner_ui.png)
+![Mission Planner Result Groundtrack](/assets/images/groundtrack.png) ![Mission Planner Overview Feature](/assets/images/schedule_overview.png)
 
 Designed and implemented an autonomous planning framework that eliminated manual scheduling conflicts and optimized observation windows for SPRITE, MANTIS, and CUTE missions.
 
